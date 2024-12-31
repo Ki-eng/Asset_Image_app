@@ -1,16 +1,30 @@
-# asset_image
+# Flutter Image Display App
 
-A new Flutter project.
+A simple Flutter app that displays an image from the app's assets with a black background and a styled app bar.
 
-## Getting Started
+## Features
+- Centered asset image display.
+- Custom app bar with a deep orange background and title.
 
-This project is a starting point for a Flutter application.
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter-image-display-app.git
 
-A few resources to get you started if this is your first Flutter project:
+2. Add the image file (office-computer-screen.jpg) to the images folder.
+   
+3. Update pubspec.yaml to include the asset:
+   flutter:
+      assets:
+        - images/office-computer-screen.jpg
+   
+4. Fetch dependencies:
+   flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+5. Run the app:
+     flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>Technologies Used </h3>
+Flutter Framework
+Dart Programming Language   
+
