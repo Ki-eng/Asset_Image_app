@@ -24,7 +24,7 @@ A simple Flutter app that displays an image from the app's assets with a black b
 5. Run the app:<br>
      flutter run<br>
 
-<h3>Technologies Used </h3><br>
-Flutter Framework<br>
-Dart Programming Language   
+ <h3>Technologies Used </h3><br>
+ Flutter Framework<br>
+ Dart Programming Language   
 
