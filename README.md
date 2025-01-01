@@ -1,7 +1,3 @@
-# Flutter Image Display App
-
-A simple Flutter app that displays an image from the app's assets with a black background and a styled app bar.
-
 ## Features
 - Centered asset image display. <br>
 - Custom app bar with a deep orange background and title.
